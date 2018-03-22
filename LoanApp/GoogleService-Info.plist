@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>613109434473-lba1pe1idj0hdo5u7mv541pppl4lifqr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.613109434473-lba1pe1idj0hdo5u7mv541pppl4lifqr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDEi5-JX2jTEl6p519dlsqMwH7fzh2E8BU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>613109434473</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.Bankroll.Bankrollapp</string>
+	<key>PROJECT_ID</key>
+	<string>bankroll-49389</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bankroll-49389.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:613109434473:ios:634ce1db33c8d52e</string>
+	<key>DATABASE_URL</key>
+	<string>https://bankroll-49389.firebaseio.com</string>
+</dict>
+</plist>

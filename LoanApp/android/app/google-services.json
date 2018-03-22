@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "613109434473",
+    "firebase_url": "https://bankroll-49389.firebaseio.com",
+    "project_id": "bankroll-49389",
+    "storage_bucket": "bankroll-49389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613109434473:android:246e553e40f71ae3",
+        "android_client_info": {
+          "package_name": "com.loanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613109434473-ujo61tp7klks848o2o31nrtt6lk6jibe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCICv8jTGaoQzE9SdrtlMI66aVpF6v8Yns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
